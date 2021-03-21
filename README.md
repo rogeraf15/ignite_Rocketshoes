@@ -9,7 +9,9 @@
     <img alt="linkedin" src="https://img.shields.io/badge/-Roger%20Fernandes-8257E6?style=flat&logo=Linkedin&logoColor=white">
   </a>
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-8257E6">
+  <a href="./LICENSE"> 
+    <img  alt="License" src="https://img.shields.io/badge/license-MIT-8257E6">
+  </a>
 </p>
 
 <h4 align="center">
