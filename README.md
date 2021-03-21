@@ -24,12 +24,7 @@
   <a href="#memo-license">License</a>
 </p>
 
-![App Screenshot](github_assets/screenshot.png)
-<!-- <p align="center">
-  <a href="" target="_blank">
-    <img alt="Demo on Netlify" src="./github_assets/netlify.png">
-  </a>
-</p> -->
+![App Screenshot](./screenshot.png)
 
 ## :ledger: About
 This is an application that simulates an online store with a shopping cart. With the following features:
