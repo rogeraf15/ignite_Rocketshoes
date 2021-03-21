@@ -49,10 +49,10 @@ Before starting :checkered_flag:, you need to have installed:
 
 ```bash
 # Clone this project
-$ git clone https://github.com/rogeraf15/ignite_desafio2_criando-um-hook-de-carrinho-de-compras.git
+$ git clone https://github.com/rogeraf15/ignite_Rocketshoes.git
 
 # Access
-$ cd ignite_desafio2_criando-um-hook-de-carrinho-de-compras
+$ cd ignite_Rocketshoes
 
 # Install dependencies
 $ yarn
